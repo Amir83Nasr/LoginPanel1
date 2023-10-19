@@ -2,4 +2,4 @@
 
 ### This will be a series 😉
 
-![Preview](Preview.jpg)
+![Preview](image/Preview.jpg)
